@@ -19,5 +19,6 @@ namespace application_development_2021
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+       
     }
 }
