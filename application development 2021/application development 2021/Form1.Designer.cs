@@ -73,11 +73,11 @@ namespace application_development_2021
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(195, 112);
+            this.textBox1.Location = new System.Drawing.Point(247, 107);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(441, 27);
+            this.textBox1.Size = new System.Drawing.Size(343, 27);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Please select the type of algorithm you would like to learn about.";
+            this.textBox1.Text = "Please click the button you would like to start with.";
             // 
             // button1
             // 
