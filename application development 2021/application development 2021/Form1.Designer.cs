@@ -77,7 +77,7 @@ namespace application_development_2021
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(343, 27);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Please click the button you would like to start with.";
+            this.textBox1.Text = "Please click the button you would like to start with";
             // 
             // button1
             // 
