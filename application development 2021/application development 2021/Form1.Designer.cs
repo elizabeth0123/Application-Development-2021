@@ -39,6 +39,7 @@ namespace application_development_2021
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnsortingalgo
@@ -139,11 +140,22 @@ namespace application_development_2021
             this.button6.Text = "Clear";
             this.button6.UseVisualStyleBackColor = false;
             // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.button7.Location = new System.Drawing.Point(668, 437);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(191, 28);
+            this.button7.TabIndex = 10;
+            this.button7.Text = "Please click for animation";
+            this.button7.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(871, 480);
+            this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -173,6 +185,7 @@ namespace application_development_2021
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
     }
 }
 
