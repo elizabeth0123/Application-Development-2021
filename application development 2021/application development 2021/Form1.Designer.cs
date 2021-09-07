@@ -132,7 +132,7 @@ namespace application_development_2021
             // button6
             // 
             this.button6.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button6.Location = new System.Drawing.Point(702, 272);
+            this.button6.Location = new System.Drawing.Point(701, 272);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(111, 77);
             this.button6.TabIndex = 9;
