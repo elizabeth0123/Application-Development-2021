@@ -33,12 +33,12 @@ namespace application_development_2021
             this.bttnsearchingalgo = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.bttnBubblesort = new System.Windows.Forms.Button();
+            this.bttnSelectionsort = new System.Windows.Forms.Button();
+            this.bttnBinarysearch = new System.Windows.Forms.Button();
+            this.bttnLinearsearch = new System.Windows.Forms.Button();
+            this.bttnstart = new System.Windows.Forms.Button();
+            this.bttnclear = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -80,65 +80,65 @@ namespace application_development_2021
             this.textBox1.TabIndex = 3;
             this.textBox1.Text = "Please click the button you would like to start with";
             // 
-            // button1
+            // bttnBubblesort
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button1.Location = new System.Drawing.Point(286, 408);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(104, 57);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Bubble sort";
-            this.button1.UseVisualStyleBackColor = false;
+            this.bttnBubblesort.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.bttnBubblesort.Location = new System.Drawing.Point(286, 408);
+            this.bttnBubblesort.Name = "bttnBubblesort";
+            this.bttnBubblesort.Size = new System.Drawing.Size(104, 57);
+            this.bttnBubblesort.TabIndex = 4;
+            this.bttnBubblesort.Text = "Bubble sort";
+            this.bttnBubblesort.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // bttnSelectionsort
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button2.Location = new System.Drawing.Point(286, 332);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(104, 57);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Selection Sort";
-            this.button2.UseVisualStyleBackColor = false;
+            this.bttnSelectionsort.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.bttnSelectionsort.Location = new System.Drawing.Point(286, 332);
+            this.bttnSelectionsort.Name = "bttnSelectionsort";
+            this.bttnSelectionsort.Size = new System.Drawing.Size(104, 57);
+            this.bttnSelectionsort.TabIndex = 5;
+            this.bttnSelectionsort.Text = "Selection Sort";
+            this.bttnSelectionsort.UseVisualStyleBackColor = false;
             // 
-            // button3
+            // bttnBinarysearch
             // 
-            this.button3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button3.Location = new System.Drawing.Point(286, 180);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(104, 57);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "Binary Search";
-            this.button3.UseVisualStyleBackColor = false;
+            this.bttnBinarysearch.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.bttnBinarysearch.Location = new System.Drawing.Point(286, 180);
+            this.bttnBinarysearch.Name = "bttnBinarysearch";
+            this.bttnBinarysearch.Size = new System.Drawing.Size(104, 57);
+            this.bttnBinarysearch.TabIndex = 6;
+            this.bttnBinarysearch.Text = "Binary Search";
+            this.bttnBinarysearch.UseVisualStyleBackColor = false;
             // 
-            // button4
+            // bttnLinearsearch
             // 
-            this.button4.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button4.Location = new System.Drawing.Point(286, 263);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(104, 57);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "Linear Search ";
-            this.button4.UseVisualStyleBackColor = false;
+            this.bttnLinearsearch.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.bttnLinearsearch.Location = new System.Drawing.Point(286, 263);
+            this.bttnLinearsearch.Name = "bttnLinearsearch";
+            this.bttnLinearsearch.Size = new System.Drawing.Size(104, 57);
+            this.bttnLinearsearch.TabIndex = 7;
+            this.bttnLinearsearch.Text = "Linear Search ";
+            this.bttnLinearsearch.UseVisualStyleBackColor = false;
             // 
-            // button5
+            // bttnstart
             // 
-            this.button5.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button5.Location = new System.Drawing.Point(479, 272);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(111, 77);
-            this.button5.TabIndex = 8;
-            this.button5.Text = "Start";
-            this.button5.UseVisualStyleBackColor = false;
+            this.bttnstart.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.bttnstart.Location = new System.Drawing.Point(479, 272);
+            this.bttnstart.Name = "bttnstart";
+            this.bttnstart.Size = new System.Drawing.Size(111, 77);
+            this.bttnstart.TabIndex = 8;
+            this.bttnstart.Text = "Start";
+            this.bttnstart.UseVisualStyleBackColor = false;
             // 
-            // button6
+            // bttnclear
             // 
-            this.button6.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button6.Location = new System.Drawing.Point(694, 272);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(111, 77);
-            this.button6.TabIndex = 9;
-            this.button6.Text = "Clear";
-            this.button6.UseVisualStyleBackColor = false;
+            this.bttnclear.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.bttnclear.Location = new System.Drawing.Point(694, 272);
+            this.bttnclear.Name = "bttnclear";
+            this.bttnclear.Size = new System.Drawing.Size(111, 77);
+            this.bttnclear.TabIndex = 9;
+            this.bttnclear.Text = "Clear";
+            this.bttnclear.UseVisualStyleBackColor = false;
             // 
             // button7
             // 
@@ -156,12 +156,12 @@ namespace application_development_2021
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(871, 480);
             this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.bttnclear);
+            this.Controls.Add(this.bttnstart);
+            this.Controls.Add(this.bttnLinearsearch);
+            this.Controls.Add(this.bttnBinarysearch);
+            this.Controls.Add(this.bttnSelectionsort);
+            this.Controls.Add(this.bttnBubblesort);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.bttnsearchingalgo);
@@ -179,12 +179,12 @@ namespace application_development_2021
         private System.Windows.Forms.Button bttnsearchingalgo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button bttnBubblesort;
+        private System.Windows.Forms.Button bttnSelectionsort;
+        private System.Windows.Forms.Button bttnBinarysearch;
+        private System.Windows.Forms.Button bttnLinearsearch;
+        private System.Windows.Forms.Button bttnstart;
+        private System.Windows.Forms.Button bttnclear;
         private System.Windows.Forms.Button button7;
     }
 }

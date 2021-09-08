@@ -17,5 +17,18 @@ namespace application_development_2021
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e);
+
+        }
+            public event EventHandler Load;
+            btnsortingalgo.Visible = false; 
+            bttnsearchingalgo.Visible = false;
+            bttnBinarysearch.Visible = false;
+            bttnBubblesort.Visible = false;
+            bttnLinearsearch.Visible = false;
+            bttnSelectionsort.Visible = false;
+            bttnstart.Visible = false;
+            bttnclear.Visible = false;
+        }
     }
 }
