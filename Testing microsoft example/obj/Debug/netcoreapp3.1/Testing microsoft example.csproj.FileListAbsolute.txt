@@ -1,0 +1,15 @@
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.exe
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.deps.json
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.runtimeconfig.json
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.runtimeconfig.dev.json
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.dll
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\bin\Debug\netcoreapp3.1\Testing microsoft example.pdb
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.csproj.AssemblyReference.cache
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing_microsoft_example.Form1.resources
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.csproj.GenerateResource.cache
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.AssemblyInfoInputs.cache
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.AssemblyInfo.cs
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.csproj.CoreCompileInputs.cache
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.dll
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.pdb
+C:\Users\ea354\OneDrive - Canterbury Christ Church University\Semester 2 2020-2021\appdev\Semester 2 Project\Testing microsoft example\obj\Debug\netcoreapp3.1\Testing microsoft example.genruntimeconfig.cache
