@@ -139,13 +139,13 @@ namespace application_development_2021
             bttnstart.Visible = false;
             bttnclear.Visible = false;
         }
-           
+          Form2 secondForm = new Form2();  
         private void bttnanimation_Click(object sender, System.EventArgs e)
         {
             // should open either another tab or another form
-            Form2 secondForm = new Form2();
-            secondForm.Show();
-
+            {
+                secondForm.Show();
+            }
         }
 
        
