@@ -41,6 +41,7 @@ namespace application_development_2021
             this.bttnHome = new System.Windows.Forms.Button();
             this.bttnExit = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.bttnanimation = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -137,7 +138,7 @@ namespace application_development_2021
             // bttnHome
             // 
             this.bttnHome.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bttnHome.Location = new System.Drawing.Point(374, 12);
+            this.bttnHome.Location = new System.Drawing.Point(244, 12);
             this.bttnHome.Name = "bttnHome";
             this.bttnHome.Size = new System.Drawing.Size(145, 40);
             this.bttnHome.TabIndex = 3;
@@ -148,7 +149,7 @@ namespace application_development_2021
             // bttnExit
             // 
             this.bttnExit.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bttnExit.Location = new System.Drawing.Point(617, 12);
+            this.bttnExit.Location = new System.Drawing.Point(617, 15);
             this.bttnExit.Name = "bttnExit";
             this.bttnExit.Size = new System.Drawing.Size(146, 40);
             this.bttnExit.TabIndex = 5;
@@ -166,11 +167,23 @@ namespace application_development_2021
             this.label3.TabIndex = 6;
             this.label3.Text = "Linear Search";
             // 
+            // bttnanimation
+            // 
+            this.bttnanimation.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.bttnanimation.Location = new System.Drawing.Point(452, 15);
+            this.bttnanimation.Name = "bttnanimation";
+            this.bttnanimation.Size = new System.Drawing.Size(123, 40);
+            this.bttnanimation.TabIndex = 7;
+            this.bttnanimation.Text = "Animation";
+            this.bttnanimation.UseVisualStyleBackColor = true;
+            this.bttnanimation.Click += new System.EventHandler(this.bttnanimation_Click);
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.bttnanimation);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.bttnExit);
             this.Controls.Add(this.panel1);
@@ -199,5 +212,6 @@ namespace application_development_2021
         private System.Windows.Forms.Button bttnExit;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button bttnSearch;
+        private System.Windows.Forms.Button bttnanimation;
     }
 }

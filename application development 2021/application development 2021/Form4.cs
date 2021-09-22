@@ -90,5 +90,11 @@ namespace application_development_2021
             }
 
         }
+        Form3 thirdForm = new Form3();
+        private void bttnanimation_Click(object sender, EventArgs e)
+        {
+            thirdForm.Show();
+            this.Hide();
+        }
     }
 }

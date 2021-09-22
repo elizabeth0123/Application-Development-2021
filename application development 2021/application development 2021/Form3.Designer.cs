@@ -29,6 +29,7 @@ namespace application_development_2021
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.bttnExit = new System.Windows.Forms.Button();
             this.bttnHomepage = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -36,6 +37,7 @@ namespace application_development_2021
             this.bttnReset = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.bttnSort = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // bttnExit
@@ -136,5 +138,6 @@ namespace application_development_2021
         private System.Windows.Forms.Button bttnReset;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button bttnSort;
+        private System.Windows.Forms.Timer timer1;
     }
 }

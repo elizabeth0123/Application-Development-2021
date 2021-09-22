@@ -65,7 +65,6 @@ namespace application_development_2021
             Interface1 se = new Class1();
             se.DoWork(OgArray, g, panel1.Height);
         }
-
      
     }
 }
