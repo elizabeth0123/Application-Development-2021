@@ -42,7 +42,6 @@ namespace Testing_microsoft_example
             this.Button1.TabIndex = 0;
             this.Button1.Text = "button1";
             this.Button1.UseVisualStyleBackColor = true;
-            
             // 
             // Label1
             // 
@@ -72,6 +71,7 @@ namespace Testing_microsoft_example
             this.Controls.Add(this.Button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            //this.Load += new System.EventHandler(this.Form1_Load_2);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -16,7 +16,7 @@ namespace Testing_microsoft_example
         {
             InitializeComponent();
         }
-        public event EventHandler Load;
+       // public event EventHandler Form1_Load;
 
        
         static int x = 200;
@@ -62,12 +62,10 @@ namespace Testing_microsoft_example
             count += 1;
         }
 
-        private void Form1_Load_1(object sender, EventArgs e)
-        {
-
+        
         }
     }
-    }
+    
         
 
 
