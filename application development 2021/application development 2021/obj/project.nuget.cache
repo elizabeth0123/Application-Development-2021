@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gi6AFZen+H/gEOE8VbwQT19kmRm0asiR7AUlNkq4sCK1l1223ne90L2gzn2Y7bmDOHqz7a4OVamAbvbX5U+CKg==",
+  "dgSpecHash": "wucV5BiahHY9bOBeRYlb4m6Gd5Q2CUrS0Z0495IbkIXj9fNINfLVTNZxoO+st4zVU3KrLsz0C5ILgWBRlv59Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\application development 2021.csproj",
+  "projectFilePath": "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\application development 2021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ea354\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],

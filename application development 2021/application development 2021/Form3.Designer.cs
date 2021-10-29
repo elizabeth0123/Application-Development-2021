@@ -123,7 +123,7 @@ namespace application_development_2021
             this.Controls.Add(this.label1);
             this.Controls.Add(this.bttnHomepage);
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "Animation";
             this.ResumeLayout(false);
             this.PerformLayout();
 

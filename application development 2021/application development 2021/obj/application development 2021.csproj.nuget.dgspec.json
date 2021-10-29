@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\application development 2021.csproj": {}
+    "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\application development 2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\application development 2021.csproj": {
+    "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\application development 2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\application development 2021.csproj",
+        "projectUniqueName": "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\application development 2021.csproj",
         "projectName": "application development 2021",
-        "projectPath": "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\application development 2021.csproj",
+        "projectPath": "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\application development 2021.csproj",
         "packagesPath": "C:\\Users\\ea354\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ea354\\OneDrive - Canterbury Christ Church University\\Semester 2 2020-2021\\appdev\\Semester 2 Project\\application development 2021\\application development 2021\\obj\\",
+        "outputPath": "C:\\Users\\ea354\\Source\\Repos\\elizabeth0123\\Application-Development-2021\\application development 2021\\application development 2021\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

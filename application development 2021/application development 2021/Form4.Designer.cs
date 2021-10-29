@@ -190,7 +190,7 @@ namespace application_development_2021
             this.Controls.Add(this.bttnHome);
             this.Controls.Add(this.lblLinearSearch);
             this.Name = "Form4";
-            this.Text = "Form4";
+            this.Text = "Linear Search";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
